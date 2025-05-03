@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: doit
+  datasource:
+    url: jdbc:mysql://localhost:3306/doit
+    username: root
+    password: kayumba@
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+jwt:
+  secret: 5fa46fd161a8d16819611cdcdc8163c6711631da11dbda06cb04f387a01ae333
