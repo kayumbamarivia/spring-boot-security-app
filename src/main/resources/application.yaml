@@ -2,7 +2,7 @@ spring:
   application:
     name: doit
   datasource:
-    url: jdbc:mysql://localhost:3306/doit
+    url: jdbc:mysql://localhost:3306/doit 
     username: root
     password: kayumba@
   jpa:

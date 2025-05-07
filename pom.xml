@@ -146,7 +146,6 @@
 		<scope>test</scope>
 	</dependency>
 	<!-- Adds testing support for Spring Security configurations. Allows you to test locked doors. -->
-
 </dependencies>
 	<build>
 		<plugins>
